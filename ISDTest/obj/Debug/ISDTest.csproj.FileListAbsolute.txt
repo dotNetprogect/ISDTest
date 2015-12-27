@@ -1,0 +1,6 @@
+g:\users\genri\documents\visual studio 2013\Projects\ISDTest\ISDTest\bin\Debug\ISDTest.exe.config
+g:\users\genri\documents\visual studio 2013\Projects\ISDTest\ISDTest\obj\Debug\ISDTest.csprojResolveAssemblyReference.cache
+g:\users\genri\documents\visual studio 2013\Projects\ISDTest\ISDTest\bin\Debug\ISDTest.exe
+g:\users\genri\documents\visual studio 2013\Projects\ISDTest\ISDTest\bin\Debug\ISDTest.pdb
+g:\users\genri\documents\visual studio 2013\Projects\ISDTest\ISDTest\obj\Debug\ISDTest.exe
+g:\users\genri\documents\visual studio 2013\Projects\ISDTest\ISDTest\obj\Debug\ISDTest.pdb
